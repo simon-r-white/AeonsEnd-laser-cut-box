@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+     width="420mm" height="297mm" viewBox="0 0 4200 2970">
+
+  <g id="material-outline">
+    <g transform="translate(0,0)">
+      <rect id="material" x="0" y="0" width="4200" height="2970" stroke-width="1" stroke="black" fill="none"/>
+      <rect id="guide" x="50" y="50" width="4100" height="2870" stroke-width="2" stroke="black" fill="none"/>
+    </g>
+  </g>
+
+
+  <g id="cut-paths">
+
+  </g>
+  
+
+
+  <g id="working">
+    <g id="work-area" transform="translate(100,100)">
+
+      <g id="base-plate">
+	
+	<rect x="-30" y="-30" width="3920" height="2720" stroke-width="1" stroke="blue" fill="none"/>
+	
+	<g id="compartment-mat" transform="translate(0,0)">
+	  <rect x="0" y="0" width="3860" height="660" stroke-width="1" stroke="blue" fill="none"/>
+	  <rect x="30" y="30" width="3800" height="600" stroke-width="1" stroke="blue" fill="none"/>
+	</g>
+	<g id="compartment-cards-a" transform="translate(0,630)">
+	  <rect x="0" y="0" width="3860" height="1030" stroke-width="1" stroke="blue" fill="none"/>
+	  <rect x="30" y="30" width="3800" height="970" stroke-width="1" stroke="blue" fill="none"/>
+	</g>
+	<g id="compartment-cards-b" transform="translate(0,1630)">
+	  <rect x="0" y="0" width="3860" height="1030" stroke-width="1" stroke="blue" fill="none"/>
+	  <rect x="30" y="30" width="3800" height="970" stroke-width="1" stroke="blue" fill="none"/>
+	</g>
+      </g>
+      
+    </g>
+
+  </g>
+
+</svg>
